@@ -12,6 +12,7 @@ namespace ConsoleApp1
         {
             //aaa
             //master
+            //nakai 変更
         }
     }
 }
