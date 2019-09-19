@@ -14,6 +14,7 @@ namespace ConsoleApp1
             //master
             //nakai 変更
             //shoki
+            //hagino
         }
     }
 }
