@@ -15,6 +15,7 @@ namespace ConsoleApp1
             //nakai 変更
             //shoki
             //hagino
+            //てきとう
         }
     }
 }
